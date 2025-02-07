@@ -1,0 +1,12 @@
+# Ignore shell history files
+.bash_history
+.zsh_history
+
+# Ignore system & temporary files
+*.log
+*.tmp
+.DS_Store
+*.swp
+node_modules/
+
+
